@@ -1,0 +1,57 @@
+.borderless td, .borderless th {
+    border: none;
+}
+body{
+    font-family: arial;
+    font-size: 14px;
+}
+input,button{
+    width: 95%;
+    height: 22px;
+    margin-left: 5px;
+}
+
+select{
+    width: 50px;
+    height: 22px;
+}
+.check{
+    height: 13px;
+    width: 13px;
+}
+.form-row{
+    width: 660px;
+    margin: 10px auto;
+}
+.form-col{
+    width: 148px;
+    height: 22px;
+    overflow-wrap: break-word;
+}
+.hint-text{
+    font-size: 10px;
+   font-family: Arial, Helvetica, sans-serif;
+   line-height: 11px;
+   color: grey;
+}
+.hint{
+    display: inline;
+}
+br{
+    width: 0px;
+}
+
+p{
+    width: 290px;
+}
+.signup-btn{
+    width: 255px;
+    height: 38px;
+    background: url(/Assignment4/redifbtn.gif) no-repeat 0 0;
+    font-size: 22px;
+    border: none;
+    text-align: center;
+}
+.borderbottom{
+    border-bottom: 4px solid #e5e5e5 ;
+}
